@@ -1,0 +1,3 @@
+cd Documents\Coursework\STFDS\Mini Project\code
+
+python server.py 8081
